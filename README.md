@@ -1,18 +1,18 @@
-\# ECE 528/L - Robotics and Embedded Systems Lab
+\#ECE 528/L - Robotics and Embedded Systems Lab
 
 
 
-\*\*California State University, Northridge\*\*  
+\*\*California State University, Northridge\*\*
 
 \*\*Department of Electrical and Computer Engineering\*\*
 
 
 
-\## Lab 0: GPIO
+\##Lab 0: GPIO
 
 
 
-\### Overview
+\###Overview
 
 
 
@@ -20,7 +20,7 @@ This lab introduced GPIO programming using the TI MSP432P401R LaunchPad. The pro
 
 
 
-\### Components Used
+\###Components Used
 
 
 
@@ -40,7 +40,7 @@ This lab introduced GPIO programming using the TI MSP432P401R LaunchPad. The pro
 
 
 
-\### Analysis and Results
+\###Analysis and Results
 
 
 
@@ -86,11 +86,11 @@ The following register values were observed during debugging:
 
 
 
-\### Register Screenshots
+\###Register Screenshots
 
 
 
-\#### Port 1
+\####Port 1
 
 
 
@@ -98,7 +98,7 @@ The following register values were observed during debugging:
 
 
 
-\#### Port 2
+\####Port 2
 
 
 
@@ -106,7 +106,7 @@ The following register values were observed during debugging:
 
 
 
-\#### Port 9
+\####Port 9
 
 
 
@@ -114,7 +114,7 @@ The following register values were observed during debugging:
 
 
 
-\#### Port 10
+\####Port 10
 
 
 
@@ -122,7 +122,7 @@ The following register values were observed during debugging:
 
 
 
-\### Known Issues or Limitations
+\###Known Issues or Limitations
 
 
 
@@ -130,19 +130,19 @@ No known issues were observed during the final hardware test. Each pattern depen
 
 
 
-\### Author Contributions
+\###Author Contributions
 
 
 
 \- \*\*Aolany Acosta:\*\* Assisted with GPIO testing, register verification, screenshots, repository organization, documentation, and GitHub submission.
 
-\- \*\*Hernan Zapien Robles:\*\* Implemented and tested the GPIO LED patterns and verified their operation on the MSP432 hardware.
+\- \*\*\[Partner’s Full Name]:\*\* Implemented and tested the GPIO LED patterns and verified their operation on the MSP432 hardware.
 
 \- Both partners contributed to testing the completed project and reviewing the results.
 
 
 
-\### References
+\###References
 
 
 
